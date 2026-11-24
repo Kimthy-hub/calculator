@@ -31,3 +31,5 @@ Thus, a JavaScript-based calculator was successfully designed and developed to p
 ## RESULT
 
 Thus, a JavaScript-based calculator was successfully designed and developed to perform basic arithmetic operations using HTML, CSS, and JavaScript.
+
+JavaScript Calculator - Experiment 6
